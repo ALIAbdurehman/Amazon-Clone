@@ -1,5 +1,5 @@
 import React from 'react'
-import './Products.css'
+import './products.css'
 import StarOutlineIcon from '@mui/icons-material/StarOutline';
 import StarRateIcon from '@mui/icons-material/StarRate';
 import productDetail from './products.json'
