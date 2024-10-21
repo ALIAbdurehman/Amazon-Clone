@@ -1,0 +1,8 @@
+.coming-soon-bar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #232F3E;
+    color: white;
+    padding: 0.2vw 0;
+}
