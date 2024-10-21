@@ -1,7 +1,7 @@
 import './App.css'
 import Footer from './components/Footer/footer'
 import Navbar from './components/Navbar/navbar'
-import Home from './Screen/Home/Home'
+import Home from './Screen/Home/home.jsx'
 import { Routes, Route } from 'react-router-dom'
 import Products from './Screen/Products/products'
 import Cart from './Screen/Cart/cart'

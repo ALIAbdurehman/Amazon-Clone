@@ -3,7 +3,7 @@ import './home.css'
 import Homebanner from './HomeBanner/homebanner'
 import HomeDetails from './HomeDetails/homeDetails'
 
-const Home = () => {
+const home = () => {
     
   return (
     <div className='home'>
@@ -13,4 +13,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default home
